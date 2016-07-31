@@ -25,5 +25,6 @@ dependencies {
     compile 'com.alirezaafkar:sundatepicker:2.0.4'
     compile 'com.mohamadamin:persianmaterialdatetimepicker:1.2.1'
     compile 'com.mcxiaoke.volley:library-aar:1.0.0'
+    compile 'com.github.szugyi:Android-CircleMenu:1.1.2'
     compile files('libs/gcm.jar')
 }
